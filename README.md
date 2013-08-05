@@ -1,4 +1,0 @@
-SocialFollowButtons
-===================
-
-Social Follow Buttons
